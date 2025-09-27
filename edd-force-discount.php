@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: EDD Force Discount
+ * Plugin Name: Force Discount for EDD
  * Plugin URI: http://kowsarhossain.com/
  * Description: A lightweight plugin to force the customer to enter a discount code during checkout
  * Version: 1.0.0

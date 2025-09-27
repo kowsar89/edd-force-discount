@@ -1,8 +1,8 @@
-# Copyright (C) 2015 EDD Force Discount
-# This file is distributed under the same license as the EDD Force Discount package.
+# Copyright (C) 2015 Force Discount for EDD
+# This file is distributed under the same license as the Force Discount for EDD package.
 msgid ""
 msgstr ""
-"Project-Id-Version: EDD Force Discount 1.0.0\n"
+"Project-Id-Version: Force Discount for EDD 1.0.0\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/edd-force-"
 "discount\n"
 "POT-Creation-Date: 2015-12-21 17:42:34+00:00\n"
@@ -17,10 +17,10 @@ msgstr ""
 msgid "Settings"
 msgstr ""
 
-#. #-#-#-#-#  plugin.pot (EDD Force Discount 1.0.0)  #-#-#-#-#
+#. #-#-#-#-#  plugin.pot (Force Discount for EDD 1.0.0)  #-#-#-#-#
 #. Plugin Name of the plugin/theme
 #: admin/class-edd-force-discount-admin.php:53
-msgid "EDD Force Discount"
+msgid "Force Discount for EDD"
 msgstr ""
 
 #: admin/class-edd-force-discount-admin.php:70

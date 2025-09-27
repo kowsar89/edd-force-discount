@@ -1,4 +1,4 @@
-=== EDD Force Discount ===
+=== Force Discount for EDD ===
 Contributors: kowsar89
 Tags: edd, easy, digital, download, force, discount, checkout
 Requires at least: 3.0.1
@@ -23,14 +23,14 @@ You can configure the error notice text from "Downloads>Force Discount" menu fro
 = From your WordPress dashboard =
 
 1. Visit 'Plugins > Add New'
-2. Search for 'EDD Force Discount'
-3. Activate 'EDD Force Discount' from your Plugins page.
+2. Search for 'Force Discount for EDD'
+3. Activate 'Force Discount for EDD' from your Plugins page.
 
 = From WordPress.org =
 
-1. Download 'EDD Force Discount'.
+1. Download 'Force Discount for EDD'.
 2. Upload the 'edd-force-discount' folder to your '/wp-content/plugins/' directory, using your favorite method (ftp, sftp, scp, etc...)
-3. Activate 'EDD Force Discount' from your Plugins page.
+3. Activate 'Force Discount for EDD' from your Plugins page.
 
 After that you can configure the plugin settings from "Downloads>Force Discount" menu from admin panel.
 

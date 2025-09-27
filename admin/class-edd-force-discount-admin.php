@@ -43,14 +43,14 @@ class FOA_EDD_Force_Discount_Admin {
     }
 
     public function admin_menu() {
-        add_submenu_page( 'edit.php?post_type=download', 'EDD Force Discount', 'Force Discount', 'manage_options', $this->plugin_slug, array($this, 'plugin_page') );
+        add_submenu_page( 'edit.php?post_type=download', 'Force Discount for EDD', 'Force Discount', 'manage_options', $this->plugin_slug, array($this, 'plugin_page') );
     }
 
     public function get_settings_sections() {
         $sections = array(
             array(
                 'id' => 'foa_edd_force_discount',
-                'title' => __( 'EDD Force Discount', 'edd-force-discount' )
+                'title' => __( 'Force Discount for EDD', 'edd-force-discount' )
             )
         );
 
