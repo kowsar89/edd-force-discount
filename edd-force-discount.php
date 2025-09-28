@@ -3,7 +3,7 @@
  * Plugin Name: Force Discount for EDD
  * Plugin URI: http://kowsarhossain.com/
  * Description: A lightweight plugin to force the customer to enter a discount code during checkout
- * Version: 1.0.0
+ * Version: 1.0.1
  * Author: Md. Kowsar Hossain
  * Author URI: http://kowsarhossain.com
  * Text Domain: edd-force-discount
